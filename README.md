@@ -1,5 +1,7 @@
-<img src="Computer_science.svg" width="300" align="right">
 
+ 
+ <img align="right" alt="Logo ULBRA" height="275" style="border-radius:50px;" src="https://www.ulbra.br/upload/01932e02023ffd8f584c0b1bd7960ab0.gif">
+ 
 # Meus projetos da Faculdade
 
 ### Elielton Ferreira
@@ -12,13 +14,12 @@ Desde Fev. 2022, até os dias atuais.
 
 Pela Universidade Luterana do Brasil (ULBRA).
 
-
 ---
 
 
 ## Disciplinas Cursadas
 
-### Algoritmos e Programação (
+### Algoritmos e Programação 
 [ 2022.1 ]
 
 Meu primeiro contato com programação na vida, onde aprendi o básico de programação e a sua lógica através da linguagem C++.
@@ -28,9 +29,9 @@ Meu primeiro contato com programação na vida, onde aprendi o básico de progra
 |--------------------------------|
 |Conceitos básicos e linguagem C |
 |Expressões aritméticas e lógicas|
-|Algoritmos sequenciais          |
+|Algoritmos sequênciais          |
 |Estruturas de repetição         |
-|Estrututuras de seleção         |
+|Estruturas de seleção           |
 |Variáveis indexadas             |
 
 ---
@@ -43,11 +44,11 @@ histórico e a evolução dos computadores e noções de lógica digital.
 
 | Conteúdos estudados                       |
 |-------------------------------------------|
-| Historia e evolução da computação         |
+| História e evolução da computação         |
 | Organização e funcionamento do computador |
 | Sistemas de numeração aritmética binária  |
 | Fundamentos da eletrônica digital         |
-| O software e os sistemas de informação    | 
+| Software e os sistemas de informação      | 
 | Aspectos Humanos e sociais da computação  | 
 
 ---
