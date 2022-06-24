@@ -1,6 +1,5 @@
 
- 
- <img align="right" alt="Logo ULBRA" height="275" style="border-radius:50px;" src="https://www.ulbra.br/upload/01932e02023ffd8f584c0b1bd7960ab0.gif">
+ <img align="right" alt="Logo La Salle" height="250" style="border-radius:100px;" src="https://user-images.githubusercontent.com/105839909/175437318-24c9ae15-cda9-4109-8117-6fb4dbdbd286.png">
  
 # Meus projetos da Faculdade
 
@@ -8,11 +7,11 @@
 
 Tecnólogo em **Análise e Desenvolvimento de Sistemas**. 
 
-Em curso :mortar_board:
+Em curso :mortar_board: 
 
 Desde Fev. 2022, até os dias atuais.
 
-Pela Universidade Luterana do Brasil (ULBRA).
+Pela Universidade La Salle ⭐
 
 ---
 
