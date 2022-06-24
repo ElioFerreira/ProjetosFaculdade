@@ -1,7 +1,6 @@
-
- <img align="right" alt="Logo La Salle" height="230" style="border-radius:150px;" src="https://user-images.githubusercontent.com/105839909/175437318-24c9ae15-cda9-4109-8117-6fb4dbdbd286.png">
- 
 # Meus projetos da Faculdade
+
+<img align="right" alt="Logo La Salle" height="210" style="border-radius:150px;" src="https://user-images.githubusercontent.com/105839909/175437318-24c9ae15-cda9-4109-8117-6fb4dbdbd286.png">
 
 ### Elielton Ferreira
 
@@ -11,7 +10,9 @@ Em curso :mortar_board:
 
 Desde Fev. 2022, até os dias atuais.
 
-Pela Universidade La Salle ⭐
+Pela Universidade La Salle / Brasil
+
+<br>
 
 ---
 
