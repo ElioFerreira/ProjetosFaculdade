@@ -1,5 +1,5 @@
 
- <img align="right" alt="Logo La Salle" height="250" style="border-radius:100px;" src="https://user-images.githubusercontent.com/105839909/175437318-24c9ae15-cda9-4109-8117-6fb4dbdbd286.png">
+ <img align="right" alt="Logo La Salle" height="230" style="border-radius:150px;" src="https://user-images.githubusercontent.com/105839909/175437318-24c9ae15-cda9-4109-8117-6fb4dbdbd286.png">
  
 # Meus projetos da Faculdade
 
